@@ -1,7 +1,7 @@
 {
   "name": "X-BYTE",
   "version": "1.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By Kelvin",
   "main": "talkdrove.js",
   "type": "commonjs", 
   "scripts": {
